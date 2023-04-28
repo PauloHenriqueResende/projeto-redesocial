@@ -47,6 +47,7 @@ section#redes-sociais img{
     border-radius: 50px;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.829);
     box-sizing: border-box;
+    background-size: cover;
 }
 section#redes-sociais{
     text-align: right ;
